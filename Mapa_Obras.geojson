@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Parque linear",
+        "Valor Estimado R$": "R$ 1.130.009,78",
+        "Data In�cio": "01/12/2014",
+        "Prazo Exec. (Dias)": 300,
+        "Data Entrega": "27/09/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1925930976867,
+          -25.4289157586091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Velodromo",
+        "Valor Estimado R$": "R$ 22.898.334,95",
+        "Data In�cio": "26/05/2015",
+        "Prazo Exec. (Dias)": 720,
+        "Data Entrega": "15/05/2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1636574268341,
+          -25.4405521811219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Reforma do CMEI Marcelino Champagnat",
+        "Valor Estimado R$": "R$ 173.487,26",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 81,
+        "Data Entrega": "12/03/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1644620895385,
+          -25.4427126920482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Concregrama na EM Jo�o Leal - Lote 2",
+        "Valor Estimado R$": "R$ 26.329,44",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1887092590331,
+          -25.4055910863054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Concregrama no CMEI Pequeno Pr�ncipe - Lote 2",
+        "Valor Estimado R$": "R$ 56.606,49",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1639471054077,
+          -25.4420829507129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Infraestrutura para o Parque das �guas",
+        "Valor Estimado R$": "R$ 305.831,86",
+        "Data In�cio": "21/03/2016",
+        "Prazo Exec. (Dias)": 121,
+        "Data Entrega": "20/07/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1473388671875,
+          -25.4402518379697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Reforma da EM Odile Charlotte Bruinj�",
+        "Valor Estimado R$": "R$ 600.383,26",
+        "Data In�cio": "21/12/2015",
+        "Prazo Exec. (Dias)": 261,
+        "Data Entrega": "07/09/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1798472404479,
+          -25.3993594277339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Reforma da EM Thereza Corr�a Machado",
+        "Valor Estimado R$": "R$ 767.731,17",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 290,
+        "Data Entrega": "07/10/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1873091459274,
+          -25.4618310398248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Reforma do CMEI Tia Marlene",
+        "Valor Estimado R$": "R$ 634.401,52",
+        "Data In�cio": "23/12/2015",
+        "Prazo Exec. (Dias)": 259,
+        "Data Entrega": "07/09/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1841173171997,
+          -25.456430547507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Reforma da Casa Amarela",
+        "Valor Estimado R$": "R$ 776.900,00",
+        "Data In�cio": "23/12/2015",
+        "Prazo Exec. (Dias)": 200,
+        "Data Entrega": "10/07/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1878938674926,
+          -25.4479297301531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Cal�ada em Paiver no CENFORPE II - Lote 1",
+        "Valor Estimado R$": "R$ 63.930,48",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1873896121978,
+          -25.4485352213292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Concregrama na EM Jos� Brunetti - Lote 2",
+        "Valor Estimado R$": "R$ 42.022,96",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1760063171386,
+          -25.4311152351799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Concregrama na EM Maria Chalcoski - Lote 2",
+        "Valor Estimado R$": "R$ 42.037,02",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1832375526428,
+          -25.441782611378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Execu��o de Concregrama no CMEI V� Charlote - Lote 2",
+        "Valor Estimado R$": "R$ 38.063,17",
+        "Data In�cio": "22/12/2015",
+        "Prazo Exec. (Dias)": 111,
+        "Data Entrega": "11/04/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1848039627075,
+          -25.3958024892222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Obra": "Constru��o da UBS Jardim Karla",
+        "Valor Estimado R$": "R$ 1.567.340,14",
+        "Data In�cio": "17/12/2015",
+        "Prazo Exec. (Dias)": 325,
+        "Data Entrega": "06/11/2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1517162322998,
+          -25.4184410485128
+        ]
+      }
+    }
+  ]
+}
